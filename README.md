@@ -1,6 +1,6 @@
 #Study-repo
 
-## My progect Plan
+## My Super Project
 
 - Initialize the project repository
 - Add the main feature
