@@ -1,6 +1,6 @@
 #Study-repo
 
-## My Awesome Project
+## My progect Plan
 
 - Initialize the project repository
 - Add the main feature
